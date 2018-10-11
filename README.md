@@ -1,4 +1,4 @@
-# dicoblos
+# dicoblosan
 Example e-voting multifunctions
 Sebuah aplikasi voting berbasis web, yang bisa digunakan secar multi fungsi tidak hanya untuk ssebuah pemilihan saja, Anda bisa menggunakan untuk berbagai macam jenis pemilu.
 
